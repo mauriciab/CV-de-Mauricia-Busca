@@ -1,4 +1,4 @@
-# **<span style="color: green;">Mauricia Busca</span>**
+# <p style="color: #800080;">Mauricia BUsca</p>
 Étudiante.
 ## Mes adresses
 <label for="email">mauriciabusca@gmail.com</label>
@@ -7,14 +7,14 @@
 2 Rue du Général de Gaulle
 
 
-## **<span style="color: green;">PROFIL</span>**
+## <p style="color: #800080;">PROFIL.</p>
 
 Étudiante en première année de licence Sciences du Langage, je suis à la recherche d'un job saisonnier qui me permettra de développer mes compétences professionelles afin d'être bien armée dans la vie active.
 Fiable et dynamique, je suis motivée pour utiliser mes qualités personnelles afin d'effectuer au mieux mon job.
 
 
 
-### Centres d'intérêts
+### <p style="color: #800080;"> Centres d'intérêts.</p>
 
 - Lecture
 - Jouer de la guitare
