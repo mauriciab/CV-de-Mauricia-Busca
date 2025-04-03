@@ -21,6 +21,18 @@ Fiable et dynamique, je suis motivée pour utiliser mes qualités personnelles a
 
 ## PARCOURS ACADÉMIQUE
 
+`Juin 2024 - Juillet 2024`
+
+Assistante de vente au
+__Guerrisol, Paris.__
+
+`Juin 2023 - Août 2023`
+
+Agent de billeterie au
+__CGR Cinéma, Torcy.__
+
+## PARCOURS PROFESSIONNEL
+
 `Septembre 2021 - Juillet 2024`
 
 Baccalauréat Général
@@ -31,6 +43,7 @@ __Lycée Martin Luther King, Bussy-Saint-Georges.__
 
 L1 Sciences du Langage 
 __Université Sorbonne Nouvelle, Paris.__
+
 
 
 ### COMPÉTENCES
@@ -48,28 +61,9 @@ __Emmaüs Solidarité__
 
 
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Avril 2025 -->
 
 
 
