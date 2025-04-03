@@ -2,7 +2,7 @@
 Étudiante.
 ## Mon Mail
 <label for="email">mauriciabusca@gmail.com</label>
-<input type="email" id="email" name="email">
+
 
 ## PROFIL
 
