@@ -1,7 +1,9 @@
 # Mauricia Busca
 Étudiante.
-## Mon Mail
+## Mes adresses
 <label for="email">mauriciabusca@gmail.com</label>
+
+2 Rue du Général de Gaulle
 
 
 ## PROFIL
