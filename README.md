@@ -25,11 +25,12 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 ## PARCOURS ACADÉMIQUE
 
 `Septembre 2021 - Juillet 2024`
-Baccalauréat Général
-__Lycée Martin Luther King.__
-__Bussy-Saint-Georges__
 
-`June 1661 - now`
+Baccalauréat Général
+__Lycée Martin Luther King, Bussy-Saint-Georges.__
+
+
+`Septembre 2024 - now`
 __Trinity College, Cambridge__
 
 - Sizar
