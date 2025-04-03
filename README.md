@@ -1,30 +1,33 @@
 # Mauricia Busca
-
 Étudiante.
-<div id="emailadress">
-<a href="mauriciabusca@gmail.com">mauriciabusca@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## Mon Mail
+<label for="email">mauriciabusca@gmail.com</label>
+<input type="email" id="email" name="email">
 
+## PROFIL
 
-## Currently
+Étudiante en première année de licence Sciences du Langage, je suis à la recherche d'un job saisonnier qui me permettra de développer mes compétences professionelles afin d'être bien armée dans la vie active.
+Fiable et dynamique, je suis motivée pour utiliser mes qualités personnelles afin d'effectuer au mieux mon job.
 
-Standing on the shoulders of giants
-
-### Specialized in
+### Parcours professionnel
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
-### Research interests
+### Centres d'intérêts
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Lecture
+- Jouer de la guitare
+- Écriture
+- Écouter de la musique
 
 
-## Education
+## PARCOURS ACADÉMIQUE
 
-`1654-1660`
-__The King's School, Grantham.__
+`Septembre 2021 - Juillet 2024`
+Baccalauréat Général
+__Lycée Martin Luther King.__
+__Bussy-Saint-Georges__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
