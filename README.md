@@ -2,6 +2,7 @@
 Étudiante.
 ## Mes adresses
 <label for="email">mauriciabusca@gmail.com</label>
+<input type="email" id="email" name="email">
 
 2 Rue du Général de Gaulle
 
