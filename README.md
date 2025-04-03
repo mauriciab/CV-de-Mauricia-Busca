@@ -9,9 +9,6 @@
 Étudiante en première année de licence Sciences du Langage, je suis à la recherche d'un job saisonnier qui me permettra de développer mes compétences professionelles afin d'être bien armée dans la vie active.
 Fiable et dynamique, je suis motivée pour utiliser mes qualités personnelles afin d'effectuer au mieux mon job.
 
-### Parcours professionnel
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
 ### Centres d'intérêts
@@ -30,40 +27,26 @@ Baccalauréat Général
 __Lycée Martin Luther King, Bussy-Saint-Georges.__
 
 
-`Septembre 2024 - now`
-__Trinity College, Cambridge__
+`Septembre 2024 - Mai 2025`
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+L1 Sciences du Langage 
+__Université Sorbonne Nouvelle, Paris.__
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+### COMPÉTENCES
+- Bon sens relationnel
+- Autonome
+- Dynamique
+- Attentive
 
 
+## BÉNÉVOLATS
 
-## Publications
+`2022-2023`
+Adhérente et bénévole à
+__Emmaüs Solidarité__ 
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
 
 ### Patents
 
