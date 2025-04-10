@@ -1,4 +1,4 @@
-# <span style="blue-text">Mauricia Busca</span>
+# <span style="color:blue">Mauricia Busca</span>
 Étudiante.
 ## Mes adresses
 <label for="email">mauriciabusca@gmail.com</label>
