@@ -9,7 +9,7 @@
 2 Rue du Général de Gaulle
 
 
-### PROFIL
+## PROFIL
 
 Étudiante en première année de licence Sciences du Langage, je suis à la recherche d'un job saisonnier qui me permettra de développer mes compétences professionelles afin d'être bien armée dans la vie active.
 Fiable et dynamique, je suis motivée pour utiliser mes qualités personnelles afin d'effectuer au mieux mon job.
@@ -24,7 +24,7 @@ Fiable et dynamique, je suis motivée pour utiliser mes qualités personnelles a
 - Écouter de la musique
 
 
-### PARCOURS ACADÉMIQUE
+####  PARCOURS ACADÉMIQUE
 
 `Juin 2024 - Juillet 2024`
 
@@ -36,7 +36,7 @@ __Guerrisol, Paris.__
 Agent de billeterie au
 __CGR Cinéma, Torcy.__
 
-### PARCOURS PROFESSIONNEL
+#####   PARCOURS PROFESSIONNEL
 
 `Septembre 2021 - Juillet 2024`
 
@@ -51,14 +51,14 @@ __Université Sorbonne Nouvelle, Paris.__
 
 
 
-### COMPÉTENCES
+###### COMPÉTENCES
 - Bon sens relationnel
 - Autonome
 - Dynamique
 - Attentive
 
 
-### BÉNÉVOLATS
+####### BÉNÉVOLATS
 
 `2022-2023`
 Adhérente et bénévole à
